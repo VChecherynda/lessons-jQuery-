@@ -4,8 +4,11 @@ body{
 }
 /* Стиль вкладок */
 #main {
+	background:#181818;
 	color:#111;
-	width:500px;
+	padding:15px 20px;
+	width:600px;
+	border:1px solid #222;
 	margin:8px auto;
 }
 #main > li,
